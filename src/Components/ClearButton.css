@@ -1,0 +1,22 @@
+.calc-clrbtn{
+	width : 240px;
+	height : 35px;
+	font-size: 19px;
+	text-align: center;
+	background-color: #b3d9ff;
+	color: #333300;
+	cursor : pointer;
+
+}
+.calc-clrbtn:hover{
+	background-color: #ffd633;
+}
+
+.calc-clrbtn:focus{
+	all :  unset;
+	width : 240px;
+	height : 35px;
+	font-size: 19px;
+	text-align: center;
+	background-color: #a8a432;
+}
